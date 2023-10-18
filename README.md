@@ -24,6 +24,11 @@ We have a user-friendly 2P SHOGI game here, purely made in C++ from scratch, usi
 - Resignation
 - Leave selected piece
 
+## Project Hierarchy
+![SHOGI](img/project-hierarchy.png)
+![SHOGI](img/project-hierarchy2.png)
+![SHOGI](img/project-hierarchy3.png)
+
 ## Themes
 
 ![SHOGI](img/Shogi1.jpg)
