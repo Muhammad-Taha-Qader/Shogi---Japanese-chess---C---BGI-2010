@@ -8,6 +8,7 @@ We have a user-friendly 2P SHOGI game here, purely made in C++ from scratch, usi
 - Theme Selection Menu (Game has 3 themes: SHOGI, English, Classical)
 - Time Based (users can choose yes/no, counts time for each user's turn and decides a winner based on score as done in Shogi)
 - Undo turn
+- Cursor / Touch based
 - Manual and Auto save
 - New Game, Resume Game, Load game state from a saved file
 - Moves
