@@ -59,8 +59,8 @@ We have a user-friendly 2P SHOGI game here, purely made in C++ from scratch, usi
 
 ## Pieces in Shogi
 
-![SHOGI](img/Rule1.png)
+![SHOGI](img/Rule2.png)
 
 After promotion:
 
-![SHOGI](img/Rule2.png)
+![SHOGI](img/Rule1.png)
